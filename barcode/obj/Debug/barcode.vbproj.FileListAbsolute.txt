@@ -1,0 +1,89 @@
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.exe.config
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.exe
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.pdb
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\bin\Debug\barcode.xml
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.Resources.resources
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.exe.licenses
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.exe
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.xml
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.pdb
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\Martinus-PC\AppData\Local\Temporary Projects\barcode\obj\Debug\barcode.report.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.exe.config
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\bin\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Form2.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Form3.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.FrmLogin.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.Resources.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.XtraReport1.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.exe.licenses
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.frmSPKFinish.resources
+C:\Users\Martinus-PC\Desktop\wiliam\New folder\barcode\barcode\obj\Debug\barcode.vbprojResolveAssemblyReference.cache
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.exe.config
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.exe
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.pdb
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\bin\Debug\barcode.xml
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Form1.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Form2.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Form3.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.FrmLogin.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.frmSPKFinish.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.Resources.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.XtraReport1.resources
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+C:\Users\Martinus-PC\Desktop\Barcode\barcode\barcode\obj\Debug\barcode.exe.licenses
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.exe.config
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.exe
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.xml
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.pdb
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.exe
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.pdb
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\bin\Debug\barcode.xml
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Form1.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Form2.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Form3.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.FrmLogin.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.frmSPKFinish.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.Resources.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.XtraReport1.resources
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+D:\PROJECTS\Barcode VCP\barcode yang bener\barcode\obj\Debug\barcode.exe.licenses
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\barcode.exe.config
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.exe
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.xml
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.pdb
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\barcode.exe
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\barcode.pdb
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\barcode.xml
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.frmBarcodeProd.resources
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.FrmLogin.resources
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.Resources.resources
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.XtraReport1.resources
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.vbproj.GenerateResource.Cache
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.exe.licenses
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\MySql.Data.dll
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.frmBarcodeSearch.resources
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\barcode.exe.manifest
+D:\PROJECTS\Barcode Buccheri\barcode\bin\Debug\barcode.application
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.TrustInfo.xml
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.exe.manifest
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.application
+D:\PROJECTS\Barcode Buccheri\barcode\obj\Debug\barcode.vbprojResolveAssemblyReference.cache
+D:\Apps\Barcode Buccheri\barcode\bin\Debug\barcode.exe.config
+D:\Apps\Barcode Buccheri\barcode\obj\Debug\barcode.exe
+D:\Apps\Barcode Buccheri\barcode\obj\Debug\barcode.xml
+D:\Apps\Barcode Buccheri\barcode\obj\Debug\barcode.pdb

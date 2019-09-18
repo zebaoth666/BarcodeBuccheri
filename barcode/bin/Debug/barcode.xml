@@ -1,0 +1,110 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+barcode
+</name>
+</assembly>
+<members>
+<member name="P:barcode.frmBarcodeProd1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.barcode_code_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.brand_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.check_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.color_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.item_code_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.item_name_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.made_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.prod_code_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.qty_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.range_size_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.size_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.style_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="P:barcode.frmBarcodeProd1.th1_UserAddedColumn">
+	<summary>
+  Looks up a localized resource of type System.Boolean similar to True.
+</summary>
+</member><member name="T:barcode.frmBarcodeProd1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:barcode.FrmLogin1.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:barcode.FrmLogin1.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:barcode.FrmLogin1.Cancel_BackgroundImage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:barcode.FrmLogin1.OK_BackgroundImage">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:barcode.FrmLogin1">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:barcode.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:barcode.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:barcode.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
